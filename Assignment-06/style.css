@@ -1,0 +1,198 @@
+.navdivback {
+    height: 115px;
+    /* border: 10px; */
+    /* border-style: solid; */
+    /* border-color: black;
+    background-color: red; */
+}
+
+#logo {
+    padding: 46px 0px 0px 40px;
+    width: 395.83px;
+    height: 37.53px;
+
+
+
+}
+
+.navbar {
+    margin: 0px;
+}
+
+.navbar li {
+    float: right;
+    list-style: none;
+    text-align: center;
+    margin: 0px;
+
+}
+
+.navbar li a {
+    text-decoration: none;
+    padding: 0px 25px 0px 0px;
+    font-size: 20px;
+    margin: 0px 0px 0px 0px;
+    font-family: New York Small;
+
+
+}
+
+.ul {
+    margin: 0px 0px -34px 0px;
+}
+
+.head1 {
+    text-align: center;
+    font-size: 54px;
+    padding: 30px 0px 20px 0px;
+    margin: 0px 0px 0px 0px;
+}
+
+.para1 {
+    text-align: center;
+    font-size: 20px;
+    font-family: SF Mono;
+    padding: 0px 0px 50px 0px;
+    margin: 0px 0px 0px 0px;
+}
+
+#img2 {
+    width: 1262px;
+    height: auto;
+    margin: 0px;
+
+}
+
+.body {
+    margin: 0px;
+}
+
+.body2 {
+    margin: 0px 421px 0px 364px;
+    line-height: 35px;
+    
+}
+#hr{
+    height: 0px;
+    border: 1px;
+    border-color: black;
+    border-style: solid;
+}
+#next{
+    padding: 12px 0px 10px 0px;
+}
+.rec8{
+    margin: 0px 210px 0px 210px;
+
+}
+#rec8{
+    width: 854px;
+height: 570px;
+
+
+}
+#para2{
+    font-size: 16px;
+    font-family: SF Pro Text;
+    text-align: center;
+}
+#ul2{
+    line-height: 70px;
+    
+}
+#fb{
+    width: 20px;
+height: 20px;
+/* top: 3777px
+left: 470px
+padding: 0.04px, 0px, 0.04px, 0px */
+padding: 23px 20px 0px 0px;
+
+}
+#fbpara{
+    width: 148px;
+height: 26px;
+/* top: 3774px
+left: 506px */
+font-family: SF Pro Text;
+font-size: 16px;
+}
+#tweet{
+    width: 22px;
+height: 18px;
+/* top: 3778px
+left: 800px */
+padding: 23px 20px 0px 0px;
+
+
+}
+#tweetpara{
+    font-family: SF Pro Text;
+font-size: 16px;
+width: 127px;
+height: 26px;
+/* top: 3774px
+left: 838px */
+
+}
+.fbtw{
+    display: flex;
+    padding: 0px 0px 0px 0px;
+}
+#id{
+    box-shadow: 10px 10px;
+}
+#span{
+    display: flex;
+}
+.an{
+    margin: 0px;
+    padding: 0px 8px 0px 0px;
+}
+#tag{
+    margin: 0px;
+    padding: 0px 8px 0px 0px;
+}
+#mgimg{
+    width: 70px;
+height: 70px;
+/* top: 3940px
+left: 400px */
+padding: 20px 20px 0px 0px;
+
+}
+#mgpara{
+    font-size: 16px;
+    line-height: 25.6px;
+}
+.mgimgpara{
+    display: flex;
+}
+.tdimg{
+    /* width: 304px;
+height: 176px; */
+/* top: 4299px
+left: 221px */
+text-align: center;
+
+}
+.imgtab{
+    margin: 0px 165px 0px 165px;
+}
+.box{
+    margin: 34px 320px 28px 300px;
+    width: 640px;
+height: 313px;
+/* top: 5021px
+left: 400px
+border: 1px */
+border: 5px 1px 1px 1px;
+border-color: black;
+border-style: solid;
+
+}
+
+#digipro{
+    font-size: 29.5px;
+    color: white;
+}

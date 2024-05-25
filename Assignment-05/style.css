@@ -1,0 +1,67 @@
+
+#head{
+     background-color: black;
+    padding: 19px 103px 19px 103px;
+    width: auto;
+    height: 311px;
+    
+}
+#cloth{
+    color: white;
+    font-size: 57px;
+}
+.headerBottom{
+    display: flex;
+    padding: 0px 1px 27px 0px;
+}
+.text1{
+    color: grey;
+    padding-left:7px;
+   
+}
+.profile{
+    width:45px;
+    height: 45px;
+    
+}
+.clock{
+    padding-left: 40px;
+    padding-top: 14px;
+    width:20px;
+    height: 20px;
+}
+.cal{
+    padding-left: 40px;
+    padding-top: 14px;
+    width:20px;
+    height: 20px;
+}
+.img{
+    width: 1041px; 
+
+}
+.downsec{
+
+    padding:87px 103px 19px 103px ;
+}
+.clock2{
+    width:20px ;
+    height:20px ;
+    padding-top: 14px;
+    
+}
+.cal2{
+    width:20px ;
+    height: 20px;
+    padding-top: 14px;
+    padding-left: 40px;
+}
+.headerB{
+    display: flex;
+}
+.cloth{
+    font-size: 41px;
+}
+.text3{
+    line-height: 26px;
+}
